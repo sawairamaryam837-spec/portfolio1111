@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "JULIAL - Futuristic Portfolio",
+  title: "Sawaira Maryam-Portfolio",
   description: "A premium futuristic portfolio loading screen.",
 };
 
